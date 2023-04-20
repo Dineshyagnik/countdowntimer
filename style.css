@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(sno.jpg);
+    background-image: url(./images/sno.jpg);
     background-size: cover;
     background-position: center center;
     display: flex;
